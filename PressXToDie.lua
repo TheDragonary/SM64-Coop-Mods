@@ -9,4 +9,3 @@ function die(m)
 end
 
 hook_event(HOOK_MARIO_UPDATE, die)
-hook_event(HOOK_ON_DEATH, die)
