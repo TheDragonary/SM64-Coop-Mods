@@ -6,7 +6,7 @@ Some mods I created for sm64ex-coop. Mostly cheats and random stuff that can mak
 
 1RedCoin.lua - The exact same but for red coins
 
-1C1RC.lua - A combination of the two
+1C1RC.lua - A combination of the two above
 >Sure does make your life easier. No need to run around and grind all those coins.
 
 ## Death and Restart Mods
@@ -21,6 +21,9 @@ die.lua - Type /die to die
 
 restart.lua - Type /restart to restart the level
 >Simple.
+
+dierestart.lua - A combination of the two above
+>Simply more efficient.
 
 ## Easy Bubble Mod
 easybubble.lua - Allows you to bubble and unbubble anywhere you want without the need to be near another player
