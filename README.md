@@ -35,3 +35,33 @@ easybubble.lua - Allows you to bubble and unbubble anywhere you want without the
 
 ## SM64 Remixed
 This mod adds custom music to every level. Mostly cool SM64 versions of popular songs.
+
+<hr>
+
+# Romhacks
+
+## Super Mario The Galactic Journey
+>This romhack has its own repo:
+>https://github.com/TheDragonary/Super-Mario-The-Galactic-Journey
+
+Created by Fares242
+
+It has 102 stars across 23 worlds
+
+Fall damage is disabled
+
+There are no 100 coin stars
+
+## Roblox 64
+
+Created by SwiftySky
+
+Roblox obby in SM64
+
+## Bup
+
+Created by ben3759
+
+A short hack containing some extremely tedious & questionable activities with a giant Bup
+
+Only has one level with 6 stars
