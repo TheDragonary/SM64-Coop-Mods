@@ -3,7 +3,7 @@
 
 ---@param obj Object
 function bhv_custom_red_coin_star_loop(obj)
-    if obj.oHiddenStarTriggerCounter >= gMarioStates[0].area.numRedCoins - 7 then
+    if obj.oHiddenStarTriggerCounter >= gMarioStates[0].area.numRedCoins - gMarioStates[0].area.numRedCoins + 1 then
         obj.oAction = 1
     end
 end
