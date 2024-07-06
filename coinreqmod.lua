@@ -13,7 +13,7 @@ function redcoin(n)
     return true
 end
 
-redcoin(8)
+_G.newRedCoins = 8
 
 ---@param obj Object
 function bhv_custom_red_coin_star_loop(obj)
