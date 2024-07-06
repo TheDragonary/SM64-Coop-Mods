@@ -6,25 +6,26 @@ All models, romhacks and texture mods are simply ports, they are not originally 
 All mods are compatible with sm64coopdx too.
 
 ## Coin Star Mods
-1CoinStar.lua - Simply only requires you to get 1 coin in order to get the coin star
+1CoinStar.lua - Simply only requires you to get 1 coin in order to get the coin star [ARCHIVED]
 
-1RedCoin.lua - The exact same but for red coins
+1RedCoin.lua - The exact same but for red coins [ARCHIVED]
 
-1C1RC.lua - A combination of the two above
+1C1RC.lua - A combination of the two above [ARCHIVED]
+
+coinreqmod.lua - Allows you to modify the number of coins/red coins required using commands
 >Sure does make your life easier. No need to run around and grind all those coins.
 
 ## Death and Restart Mods
-PressXToDie.lua - Pressing X will kill you
+PressXToDie.lua - Pressing X will kill you [ARCHIVED]
 
-PressXToRestart.lua - Pressing X will restart the level
+PressXToRestart.lua - Pressing X will restart the level [ARCHIVED]
 
-X2DY2R.lua - Press X to die and Y to restart
+X2DY2R.lua - Press X to die and Y to restart [ARCHIVED]
 >These are not the actual X and Y keys on your keyboard but rather whatever button you mapped them to (You'll find the option in Controls --> Extra Binds)
 
-die.lua - Type /die to die
+die.lua - Type /die to die [ARCHIVED]
 
-restart.lua - Type /restart to restart the level
->Simple.
+restart.lua - Type /restart to restart the level [ARCHIVED]
 
 dierestart.lua - A combination of the two above
 >Simply more efficient.
