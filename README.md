@@ -1,33 +1,14 @@
 # SM64 Co-op Mods
-Some mods I created for sm64ex-coop. Mostly cheats and random stuff that can make your life easier or stuff I randomly made for no reason other than just for fun.
+Some mods I created for sm64coopdx. Mostly cheats and random stuff that can make your life easier or stuff I randomly made for no reason other than just for fun.
 
 All models, romhacks and texture mods are simply ports, they are not originally created by me.
 
-All mods are compatible with sm64coopdx too.
-
-## Coin Star Mods
-1CoinStar.lua - Simply only requires you to get 1 coin in order to get the coin star [ARCHIVED]
-
-1RedCoin.lua - The exact same but for red coins [ARCHIVED]
-
-1C1RC.lua - A combination of the two above [ARCHIVED]
-
+## Coin Requirement Modifier
 coinreqmod.lua - Allows you to modify the number of coins/red coins required using commands
 >Sure does make your life easier. No need to run around and grind all those coins.
 
-## Death and Restart Mods
-PressXToDie.lua - Pressing X will kill you [ARCHIVED]
-
-PressXToRestart.lua - Pressing X will restart the level [ARCHIVED]
-
-X2DY2R.lua - Press X to die and Y to restart [ARCHIVED]
->These are not the actual X and Y keys on your keyboard but rather whatever button you mapped them to (You'll find the option in Controls --> Extra Binds)
-
-die.lua - Type /die to die [ARCHIVED]
-
-restart.lua - Type /restart to restart the level [ARCHIVED]
-
-dierestart.lua - A combination of the two above
+## Death and Restart Mod
+dierestart.lua - Type /die to die or /restart to restart the level
 >Simply more efficient.
 
 ## Easy Bubble Mod
@@ -37,10 +18,12 @@ easybubble.lua - Allows you to bubble and unbubble anywhere you want without the
 ## SM64 Remixed
 This mod adds custom music to every level. Mostly cool SM64 versions of popular songs.
 
+# Models
+These can be found in the models folder and each mod has their own slash command to toggle the skin on or off.
+
 <hr>
 
 # Romhacks
-
 ## Super Mario The Galactic Journey
 >This romhack has its own repo:
 >https://github.com/TheDragonary/Super-Mario-The-Galactic-Journey
@@ -54,15 +37,31 @@ Fall damage is disabled
 There are no 100 coin stars
 
 ## Roblox 64
-
 Created by SwiftySky
 
 Roblox obby in SM64
 
 ## Bup
-
 Created by ben3759
 
 A short hack containing some extremely tedious & questionable activities with a giant Bup
 
 Only has one level with 6 stars
+
+# Archived Mods
+1CoinStar.lua - Simply only requires you to get 1 coin in order to get the coin star [ARCHIVED]
+
+1RedCoin.lua - The exact same but for red coins [ARCHIVED]
+
+1C1RC.lua - A combination of the two above [ARCHIVED]
+
+PressXToDie.lua - Pressing X will kill you [ARCHIVED]
+
+PressXToRestart.lua - Pressing X will restart the level [ARCHIVED]
+
+X2DY2R.lua - Press X to die and Y to restart [ARCHIVED]
+>These are not the actual X and Y keys on your keyboard but rather whatever button you mapped them to (You'll find the option in Controls --> Extra Binds)
+
+die.lua - Type /die to die [ARCHIVED]
+
+restart.lua - Type /restart to restart the level [ARCHIVED]
