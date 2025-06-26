@@ -60,7 +60,7 @@ Only has one level with 6 stars
 <hr>
 
 # Texture Mods
-Basically like Minecraft texture packs I suppose. Pretty self-explanatory, they just change the textures of pretty much everything.
+Basically like Minecraft texture packs I suppose. Pretty self-explanatory, they just change the textures of pretty much everything. There are only really 2 texture mods, both are not created by me of course, they're just ports. Funnily enough, one of them is a Minecraft texture pack, so yknow if you wanted to make SM64 look a little bit more like Minecraft, you can do that.
 
 <hr>
 
