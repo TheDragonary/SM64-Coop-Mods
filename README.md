@@ -15,6 +15,13 @@ dierestart.lua - Type /die to die or /restart to restart the level
 easybubble.lua - Allows you to bubble and unbubble anywhere you want without the need to be near another player
 >This mod only works in multiplayer because in singleplayer, bubbling would just straight up kill you, therefore I had to disable the ability to bubble in singleplayer. You can still keep the mod enabled though, it just won't work in singleplayer at all. Enjoy floating around the entire level and going to places that are impossible to reach!
 
+## Display Coordinates
+displaycoords.lua - Simply displays your XYZ coordinates in the bottom left corner of the screen
+
+## Level Teleport
+levelteleport.lua - Type /level [number] to teleport to a level
+>Tbh I should probably improve this so you can type in level names instead because if you were to try this mod right now, you'll find that using numbers is quite annoying, i.e. level 1 doesn't correspond to Bob-omb Battlefield.
+
 ## SM64 Remixed
 This mod adds custom music to every level. Mostly cool SM64 versions of popular songs.
 
@@ -49,6 +56,11 @@ Created by ben3759
 A short hack containing some extremely tedious & questionable activities with a giant Bup
 
 Only has one level with 6 stars
+
+<hr>
+
+# Texture Mods
+Basically like Minecraft texture packs I suppose. Pretty self-explanatory, they just change the textures of pretty much everything.
 
 <hr>
 
