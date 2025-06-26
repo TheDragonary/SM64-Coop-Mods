@@ -18,6 +18,8 @@ easybubble.lua - Allows you to bubble and unbubble anywhere you want without the
 ## SM64 Remixed
 This mod adds custom music to every level. Mostly cool SM64 versions of popular songs.
 
+<hr>
+
 # Models
 These can be found in the models folder and each mod has their own slash command to toggle the skin on or off.
 
@@ -47,6 +49,8 @@ Created by ben3759
 A short hack containing some extremely tedious & questionable activities with a giant Bup
 
 Only has one level with 6 stars
+
+<hr>
 
 # Archived Mods
 1CoinStar.lua - Simply only requires you to get 1 coin in order to get the coin star [ARCHIVED]
